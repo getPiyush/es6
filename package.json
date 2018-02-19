@@ -1,0 +1,19 @@
+{
+  "name": "es6test",
+  "version": "1.0.0",
+  "description": "various examples of es6 using express server",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "es6",
+    "node"
+  ],
+  "author": "Piyush Praharaj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-generator": "^4.15.5"
+  }
+}
